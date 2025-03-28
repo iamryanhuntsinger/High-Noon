@@ -30,17 +30,17 @@
     ],
     "buttons": [
       { "text": "Find Near You", "url": "/FindNearMe" },
-      { "text": "Find Pineapple Vodka Seltzer", "url": "https://example.com/vodka-seltzer-2" },
-      { "text": "Find Watermelon Vodka Seltzer", "url": "https://example.com/vodka-seltzer-3" },
-      { "text": "Find Black Cherry Vodka Seltzer", "url": "https://example.com/vodka-seltzer-4" },
-      { "text": "Find Lemon Vodka Seltzer", "url": "https://example.com/vodka-seltzer-5" },
-      { "text": "Find Peach Vodka Seltzer", "url": "https://example.com/vodka-seltzer-6" },
-      { "text": "Find Raspberry Vodka Seltzer", "url": "https://example.com/vodka-seltzer-7" },
-      { "text": "Find Lime Vodka Seltzer", "url": "https://example.com/vodka-seltzer-8" },
-      { "text": "Find Mango Vodka Seltzer", "url": "https://example.com/vodka-seltzer-9" },
-      { "text": "Find Watermelon Vodka Seltzer", "url": "https://example.com/vodka-seltzer-10" },
-      { "text": "Find Cranberry Vodka Seltzer", "url": "https://example.com/vodka-seltzer-11" },
-      { "text": "Find Lemon Vodka Seltzer", "url": "https://example.com/vodka-seltzer-12" }
+      { "text": "Find Near You", "url": "/FindNearMe" },
+      { "text": "Find Near You", "url": "/FindNearMe" },
+      { "text": "Find Near You", "url": "/FindNearMe" },
+      { "text": "Find Near You", "url": "/FindNearMe" },
+      { "text": "Find Near You", "url": "/FindNearMe" },
+      { "text": "Find Near You", "url": "/FindNearMe" },
+      { "text": "Find Near You", "url": "/FindNearMe" },
+      { "text": "Find Near You", "url": "/FindNearMe" },
+      { "text": "Find Near You", "url": "/FindNearMe" },
+      { "text": "Find Near You", "url": "/FindNearMe" },
+      { "text": "Find Near You", "url": "/FindNearMe" }
     ]
   },
   "vodka-iced-tea": {
@@ -73,18 +73,18 @@
       "Lemon Vodka Iced Tea"
     ],
     "buttons": [
-      { "text": "Find Raspberry Vodka Iced Tea", "url": "https://example.com/vodka-iced-tea-1" },
-      { "text": "Find Original Vodka Iced Tea", "url": "https://example.com/vodka-iced-tea-2" },
-      { "text": "Find Peach Vodka Iced Tea", "url": "https://example.com/vodka-iced-tea-3" },
-      { "text": "Find Lemon Vodka Iced Tea", "url": "https://example.com/vodka-iced-tea-4" },
-      { "text": "Find Raspberry Vodka Iced Tea", "url": "https://example.com/vodka-iced-tea-1" },
-      { "text": "Find Original Vodka Iced Tea", "url": "https://example.com/vodka-iced-tea-2" },
-      { "text": "Find Peach Vodka Iced Tea", "url": "https://example.com/vodka-iced-tea-3" },
-      { "text": "Find Lemon Vodka Iced Tea", "url": "https://example.com/vodka-iced-tea-4" },
-      { "text": "Find Raspberry Vodka Iced Tea", "url": "https://example.com/vodka-iced-tea-1" },
-      { "text": "Find Original Vodka Iced Tea", "url": "https://example.com/vodka-iced-tea-2" },
-      { "text": "Find Peach Vodka Iced Tea", "url": "https://example.com/vodka-iced-tea-3" },
-      { "text": "Find Lemon Vodka Iced Tea", "url": "https://example.com/vodka-iced-tea-4" }
+      { "text": "Find Near You", "url": "/FindNearMe" },
+      { "text": "Find Near You", "url": "/FindNearMe" },
+      { "text": "Find Near You", "url": "/FindNearMe" },
+      { "text": "Find Near You", "url": "/FindNearMe" },
+      { "text": "Find Near You", "url": "/FindNearMe" },
+      { "text": "Find Near You", "url": "/FindNearMe" },
+      { "text": "Find Near You", "url": "/FindNearMe" },
+      { "text": "Find Near You", "url": "/FindNearMe" },
+      { "text": "Find Near You", "url": "/FindNearMe" },
+      { "text": "Find Near You", "url": "/FindNearMe" },
+      { "text": "Find Near You", "url": "/FindNearMe" },
+      { "text": "Find Near You", "url": "/FindNearMe" }
     ]
   },
   "tequila-seltzer": {
@@ -117,18 +117,18 @@
       "Grapefruit Tequila Seltzer"
     ],
     "buttons": [
-      { "text": "Find Strawberry Tequila Seltzer", "url": "https://example.com/tequila-seltzer-1" },
-      { "text": "Find Lime Tequila Seltzer", "url": "https://example.com/tequila-seltzer-2" },
-      { "text": "Find Passionfruit Tequila Seltzer", "url": "https://example.com/tequila-seltzer-3" },
-      { "text": "Find Grapefruit Tequila Seltzer", "url": "https://example.com/tequila-seltzer-4" },
-      { "text": "Find Strawberry Tequila Seltzer", "url": "https://example.com/tequila-seltzer-1" },
-      { "text": "Find Lime Tequila Seltzer", "url": "https://example.com/tequila-seltzer-2" },
-      { "text": "Find Passionfruit Tequila Seltzer", "url": "https://example.com/tequila-seltzer-3" },
-      { "text": "Find Grapefruit Tequila Seltzer", "url": "https://example.com/tequila-seltzer-4" },
-      { "text": "Find Strawberry Tequila Seltzer", "url": "https://example.com/tequila-seltzer-1" },
-      { "text": "Find Lime Tequila Seltzer", "url": "https://example.com/tequila-seltzer-2" },
-      { "text": "Find Passionfruit Tequila Seltzer", "url": "https://example.com/tequila-seltzer-3" },
-      { "text": "Find Grapefruit Tequila Seltzer", "url": "https://example.com/tequila-seltzer-4" }
+      { "text": "Find Near You", "url": "/FindNearMe" },
+      { "text": "Find Near You", "url": "/FindNearMe" },
+      { "text": "Find Near You", "url": "/FindNearMe" },
+      { "text": "Find Near You", "url": "/FindNearMe" },
+      { "text": "Find Near You", "url": "/FindNearMe" },
+      { "text": "Find Near You", "url": "/FindNearMe" },
+      { "text": "Find Near You", "url": "/FindNearMe" },
+      { "text": "Find Near You", "url": "/FindNearMe" },
+      { "text": "Find Near You", "url": "/FindNearMe" },
+      { "text": "Find Near You", "url": "/FindNearMe" },
+      { "text": "Find Near You", "url": "/FindNearMe" },
+      { "text": "Find Near You", "url": "/FindNearMe" }
     ]
   }
 }
